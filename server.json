@@ -1,0 +1,138 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 10
+    },
+    {
+      "id": 4,
+      "amount": 5
+    },
+    {
+      "id": 22,
+      "amount": 3
+    },
+    {
+      "id": 54,
+      "amount": 7
+    },
+    {
+      "id": 19,
+      "amount": 2
+    },
+    {
+      "id": 23,
+      "amount": 15
+    },
+    {
+      "id": 79,
+      "amount": 16
+    },
+    {
+      "id": 7,
+      "amount": 9
+    },
+    {
+      "id": 20,
+      "amount": 3
+    },
+    {
+      "id": 14,
+      "amount": 6
+    },
+    {
+      "id": 31,
+      "amount": 18
+    },
+    {
+      "id": 82,
+      "amount": 22
+    }
+  ],
+  "trips": [
+    {
+      "id": 1,
+      "title": "Viagem Maceió 7 noites",
+      "status": true,
+      "image": "https://sujeitoprogramador.com/wp-content/uploads/2019/12/maceio.jpg",
+      "inner_img": "https://hotelportojatiuca.com.br/site/wp-content/uploads/2019/09/063_Paju%C3%A7araPontaVerde_Macei%C3%B3-@WesleyMenegari.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Viagem Caribe 5 noites",
+      "status": true,
+      "image": "https://sujeitoprogramador.com/wp-content/uploads/2019/12/caribe.jpg",
+      "inner_img": "https://c.wallhere.com/photos/a5/a8/1500x844_px_beach_cocktails_landscape_Lightning_nature_night_Palm_Trees-826965.jpg!d"
+    },
+    {
+      "id": 22,
+      "title": "Viagem Fernando de Noronha 10 noites",
+      "status": true,
+      "image": "https://sujeitoprogramador.com/wp-content/uploads/2019/12/fernand-noronha.jpg",
+      "inner_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_RzkMydeZTfEbH0AiJnZxie42d7Jgur1Z1PGKsQ5hbJVSeKb2&usqp=CAU"
+    },
+    {
+      "id": 54,
+      "title": "Viagem Dubai 5 noites",
+      "status": true,
+      "image": "https://www.viajali.com.br/wp-content/uploads/2019/12/dubai-1.jpg",
+      "inner_img": "https://assets-cdn.kangaroo.com.br/images/dubai/vista-aerea-marina-cidade-dubai.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Viagem Costa do Sauipe 20 noites",
+      "status": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_ktirI1Wcuu3J1mVm8wsOE57lkfbp4vvcBoPBAagR57YuuXSD&usqp=CAU",
+      "inner_img": "https://images.freeimages.com/images/premium/previews/3041/30412678-dublin-at-night.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Viagem Rio de Janeiro 18 dias",
+      "status": true,
+      "image": "https://www.costacruzeiros.com/content/dam/costa/inventory-assets/ports/RIO/c035_rio_de_janeiro.jpg ",
+      "inner_img": "https://guiaviajarmelhor.com.br/wp-content/uploads/2018/10/O-que-fazer-no-rio-de-janeiro-a-noite.jpg"
+    },
+    {
+      "id": 79,
+      "title": "Viagem Olinda carnaval 15 dias",
+      "status": true,
+      "image": "https://i0.wp.com/www.olinda.pe.gov.br/wp-content/uploads/2018/08/olinda_722.jpg?resize=722%2C360&ssl=1",
+      "inner_img": "https://www.penocarnaval.com.br/noticia/wp-content/uploads/2019/03/VRA4399-2.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Viagem Paris 12 dias",
+      "status": true,
+      "image": "https://s3.lufthansacc.com/wp-content/uploads/2018/05/paris-torre-eiffel-franca.jpg",
+      "inner_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6PA7Wvvdp2ckwI3m-RQ1iqNm5YC-TKm6W_KxHmJ_pr6L9-Sct&usqp=CAU"
+    },
+    {
+      "id": 20,
+      "title": "Viagem Londres 20 dias",
+      "status": true,
+      "image": "https://www.visitbritain.com/sites/default/files/styles/consumer_campaigns_hero_mobile/public/paragraphs_bundles/hero/london.jpg?itok=Fy9nGaJ1",
+      "inner_img": "https://cdn.civitatis.com/reino-unido/londres/guia/distritos.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Viagem Aracaju 30 dias",
+      "status": true,
+      "image": "https://i.ytimg.com/vi/s61Yfz6c414/maxresdefault.jpg",
+      "inner_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCDAobc8LRzhJMZoKr4DvgSyl6MyHZpg-PWQ7OJJxvWTpMCZqP&usqp=CAU"
+    },
+    {
+      "id": 31,
+      "title": "Viagem Nova York 10 dias",
+      "status": true,
+      "image": "https://cdn.getyourguide.com/img/location_img-59-1969619245-148.jpg",
+      "inner_img": "https://upload.wikimedia.org/wikipedia/commons/4/47/New_york_times_square-terabass.jpg"
+    },
+    {
+      "id": 82,
+      "title": "Viagem Bruxelas 16 noites",
+      "status": true,
+      "image": "https://i.pinimg.com/originals/0b/7f/f5/0b7ff598b22e97a0d6ff2555b8a9d061.jpg",
+      "inner_img": "https://res.cloudinary.com/adagio/image/upload/s--GWvpqNK8--/c_thumb%2Cdn_72%2Cf_auto%2Ch_380%2Cq_auto%2Cw_1280/v1/destinations/Belgique/02_Photo_villes/Bruxelles/1_Bruxelles_musee-de-la-ville_3700x1900.jpg?itok=q2uN3e2j"
+    }
+  ]
+}
